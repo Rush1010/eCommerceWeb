@@ -1,7 +1,7 @@
 # eCommerce Web
 Web-shop for online shopping
 
-##Features
+## Features
 * Customers can list and view products
 * Customers can register account
 * Only registered customers can order
@@ -16,7 +16,7 @@ Web-shop for online shopping
     * Orders information
     * Administrator information
 
-##Requirements
+## Requirements
 * Node.js with the following modules
     * body-parser: ~1.13.2
     * cookie-parser: ~1.3.5
@@ -29,7 +29,7 @@ Web-shop for online shopping
     * passport: ~0.3.2
     * slugify: ~0.1.1
 
-##Installation
+## Installation
 * Clone project: `git clone https://github.com/anhpham1509/eCommerceWeb.git`
 * Install dependencies in `package.json`: `npm install`
 
